@@ -1,0 +1,12 @@
+// node_modules
+// android/build
+// android/app/build
+// android/.gradle
+//android/app/.cxx
+//.expo
+node_modules/
+android/build/
+android/app/build/
+android/.gradle/
+android/app/.cxx/
+.expo/
